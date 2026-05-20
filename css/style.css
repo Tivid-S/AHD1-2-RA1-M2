@@ -156,9 +156,6 @@ main .bienvenida {
 }
 
 /* ======================= */
-.contenedor {
-  background-color: #a89d23;
-}
 .contenedor h3 {
   color: white;
 }
@@ -239,7 +236,6 @@ main .bienvenida {
   gap: 25px;
   padding: 30px;
   margin: none;
-  background-color: #F5DD90;
   margin-top: 30px;
 }
 .contacto div {
